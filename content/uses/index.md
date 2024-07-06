@@ -8,6 +8,7 @@ eleventyNavigation:
 
 - Macbook Air M2, 2023
 - Sublime Text
+- Sublime Merge
 - Wezterm
 - Obsidian
 
