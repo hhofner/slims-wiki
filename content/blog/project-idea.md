@@ -1,11 +1,13 @@
-# Project Idea
+---
+title: A small project idea
+---
 
 I typically write project ideas on Obsidian and keep it private. But for some reason,
 I wanted to write about this one. Possibly because it is essentially a social network. 
 
 ## The Idea
 
-A social network for those to share rcycling tips.
+A social network for those to share recycling tips.
 
 That's it. 
 
