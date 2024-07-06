@@ -11,8 +11,13 @@ eleventyNavigation:
 - Sublime Merge
 - Wezterm
 - Obsidian
+- Arc Browser
 
 ## Social Networks
+
+I use Pixelfed for images:
+
+<iframe src="https://pixelfed.tokyo/slims/embed" class="pixelfed__embed" style="max-width: 100%; border: 0px; overflow: hidden;" width="400" allowfullscreen="allowfullscreen" scrolling="no" height="590"></iframe>
 
 I am tracking my books on Bookwyrm:
 
