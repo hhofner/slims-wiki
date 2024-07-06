@@ -5,6 +5,8 @@ eleventyNavigation:
   order: 1
 numberOfLatestPostsToShow: 3
 ---
+
+<a rel="me" href="https://famichiki.jp/@slims" style="display: none;">Mastodon</a>
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 <h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
