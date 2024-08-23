@@ -7,7 +7,7 @@ I've been working with Nuxt for a few weeks now, and was wondering exactly how
 the auto imports work. Luckily for me, I found a really nice (free!) resource
 on Nuxt that explains exactly how.
 
-https://learnnuxt.co/free/introduction/nuxt-auto-imports
+[https://learnnuxt.co/free/introduction/nuxt-auto-imports](https://learnnuxt.co/free/introduction/nuxt-auto-imports)
 
 It's essentially a small tutorial that would take you no less than 5-10 minutes.
 I recommend it.
