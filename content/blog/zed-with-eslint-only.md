@@ -1,5 +1,7 @@
 ---
 title: Setting up Zed with eslint only formatting
+date: 2024-08-17
+tags: coding
 ---
 
 I was trying to set up the Zed editor with ESLint only formatting yesterday, and to save future someone

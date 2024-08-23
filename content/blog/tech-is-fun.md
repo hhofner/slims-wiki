@@ -1,5 +1,7 @@
 ---
 title: Tech Is Sometimes Fun
+tags: ["Tech"]
+date: 2024-08-12
 ---
 
 Tech is fun...sometimes. When I mean tech, I mostly mean talking to people or reading about things *about* tech online is sometimes fun. But it can be a lot.

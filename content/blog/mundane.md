@@ -1,5 +1,7 @@
 ---
 title: Mundane Things
+tags: ["Slice of Life"]
+
 ---
 
 Everyone has their "little things". It's always
