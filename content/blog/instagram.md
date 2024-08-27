@@ -3,10 +3,22 @@ title: On Personal Productivity
 tags: ["Tech", "Slice of Life"]
 date: 2024-08-26
 ---
-Instagram is such a double edged sword and some days I regret wielding it. I have a 15 minute time limit set on it, which I sometimes break, but for the most part honor. And for good reason.
 
-Instagrams arguably worst feature is the feed of things you didn’t ask for, paired with the brain rotting “reels”. I can’t deny that the content Instagram feeds you can be highly entertaining and engaging. Feeds is exactly the right verb here though, because it’s not really things you asked for. And this hyper-engaging, short form content brings a slew of negatives. For one, and I’m sure many can relate, is the absolute time wasted on them, or at the very least the feeling of time wasted. Second, and I think this one is the worst and least talked about, but there are plenty of awful things fed to you. From awful, racist or plain horrible comments to reactionary content (examples include people slandering things you like, people doing very crazy things, near death experiences). I do enjoy a few reels related to football or sports, but in general I am always left with a sour taste in my mouth. What’s worse is that you can’t really explicitly tell Instagram to “feed” you only this and that, you can pretty much just say “I don’t like this” and let the algorithm find more stuff you didn’t really want.
+I've been quite overwhelmed with the amount of tool options one has for personal
+productivity and how many of them appeal to me. Taking most of them aside, I'm trying
+my best to stick to ones that I am already using, however they are kind of at odds.
 
-Instagram is a great tool for staying in contact with your friends. It’s the modern Facebook, and it’s the only platform a good portion of my friends are active on. This is a great positive, and being able to share pictures of your life is a wonderful feature for me.
+About a month and a half ago, I decided to stick to using my [Hobonichi](https://www.1101.com/store/techo/en/about/)
+journal/planner. I decided to do so because of my unwavering addiction to my phone. In the past, I was
+a major user of [Things](https://culturedcode.com/things/). I love the app, and own both the iOS and Mac
+version. The issue was that every time I opened my phone to check my tasks, I ended up doing something
+else either before or after, and often times would end up wasting several minutes when
+I should have closed my phone much earlier. Basically, I want one less reason to look at my phone. Already,
+I do feel it has helped quite a bit. Unfortunately, going fully analog has its problems, especially
+when working at a tech company that values its digital calendar.
 
-But the rest is horrible. One day, perhaps, something like Pixelfed will take off, although I hope it never decides to adopt short form content.
+The most recent annoyance of mine is what to do with Obsidian. I love the software,
+but find trouble finding a good balance of its usage with my analog planning. While I
+treat Obsidian mostly as a location for notes, which is what it initially was meant for,
+its "planning features" are hard for me to ignore, and it's entirely too easy to make tasks
+that I need to check later.
